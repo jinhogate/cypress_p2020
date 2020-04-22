@@ -1,0 +1,177 @@
+{
+  "articles": [
+    {
+      "title": "Test 1",
+      "slug": "test-1-7d96px",
+      "body": "Test 1",
+      "createdAt": "2020-04-22T19:10:59.393Z",
+      "updatedAt": "2020-04-22T19:10:59.393Z",
+      "tagList": [],
+      "description": "Test 1",
+      "author": {
+        "username": "Jotax",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "This is a title",
+      "slug": "this-is-a-title-6981vp",
+      "body": "This is a body of the Article",
+      "createdAt": "2020-04-22T18:40:52.504Z",
+      "updatedAt": "2020-04-22T18:40:52.504Z",
+      "tagList": [],
+      "description": "This is a description",
+      "author": {
+        "username": "garneralan",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "This is a title",
+      "slug": "this-is-a-title-odh79",
+      "body": "This is a body of the Article",
+      "createdAt": "2020-04-22T18:31:31.549Z",
+      "updatedAt": "2020-04-22T18:31:31.549Z",
+      "tagList": [],
+      "description": "This is a description",
+      "author": {
+        "username": "garneralan",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "This is a title",
+      "slug": "this-is-a-title-zokk5k",
+      "body": "This is a body of the Article",
+      "createdAt": "2020-04-22T18:28:25.042Z",
+      "updatedAt": "2020-04-22T18:28:25.042Z",
+      "tagList": [],
+      "description": "This is a description",
+      "author": {
+        "username": "garneralan",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "test",
+      "slug": "test-761e74",
+      "body": "RadhaKrishn",
+      "createdAt": "2020-04-22T18:28:02.988Z",
+      "updatedAt": "2020-04-22T18:28:02.988Z",
+      "tagList": [
+        "Devotion"
+      ],
+      "description": "Test1",
+      "author": {
+        "username": "popp",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "This is a title",
+      "slug": "this-is-a-title-hc00iu",
+      "body": "This is a body of the Article",
+      "createdAt": "2020-04-22T18:27:23.524Z",
+      "updatedAt": "2020-04-22T18:27:23.524Z",
+      "tagList": [],
+      "description": "This is a description",
+      "author": {
+        "username": "garneralan",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "This is a title",
+      "slug": "this-is-a-title-17nevh",
+      "body": "This is a body of the Article",
+      "createdAt": "2020-04-22T18:25:49.554Z",
+      "updatedAt": "2020-04-22T18:25:49.554Z",
+      "tagList": [],
+      "description": "This is a description",
+      "author": {
+        "username": "garneralan",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Super Article",
+      "slug": "super-article-b5zobs",
+      "body": "Wow! super article",
+      "createdAt": "2020-04-22T18:21:35.384Z",
+      "updatedAt": "2020-04-22T18:21:35.384Z",
+      "tagList": [],
+      "description": "This is my first article",
+      "author": {
+        "username": "pablo1234",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "teste",
+      "slug": "teste-xmu7gy",
+      "body": "aaaaa",
+      "createdAt": "2020-04-22T18:08:33.570Z",
+      "updatedAt": "2020-04-22T18:08:33.570Z",
+      "tagList": [],
+      "description": "teste",
+      "author": {
+        "username": "falkay",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "mlzmmlx,lxmxmlx,x,lx",
+      "slug": "mlzmmlx-lxmxmlx-x-lx-71ntdv",
+      "body": "xmmxlxklxlkxlkxklxkl",
+      "createdAt": "2020-04-22T16:54:26.075Z",
+      "updatedAt": "2020-04-22T16:54:26.075Z",
+      "tagList": [],
+      "description": "mlxmlxlxlklllxklxklx",
+      "author": {
+        "username": "jai123",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    }
+  ],
+  "articlesCount": 500
+}

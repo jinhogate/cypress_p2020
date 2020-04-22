@@ -1,0 +1,21 @@
+{
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cypress"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "cypress",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.4.0"
+  }
+}
